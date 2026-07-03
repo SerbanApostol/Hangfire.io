@@ -64,6 +64,11 @@
       description: Allows you combine Hangfire.Console with Serilog
       url: https://github.com/AnderssonPeter/Hangfire.Console.Extensions
       author: AnderssonPeter
+  
+    - name: Hangfire.Console.SearchExtension
+      description: Adds page to search for jobs that have run, supports searching console text from Hangfire.Console
+      url: https://github.com/SerbanApostol/Hangfire.Console.SearchExtension
+      author: SerbanApostol
 
     - name: Hangfire.Core.Dashboard.Management
       description: Adds a management dashboard to manually queue jobs.
